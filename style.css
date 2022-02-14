@@ -6,7 +6,7 @@ body{
     border-radius: 4px;
 }
 .bimg{
-    background-image: url(/image11.jpg);
+    background-image: url(image11.jpg);
     background-blend-mode: overlay;
     background-color: rgba(124, 21, 21, 0.7);
     margin: 15px 10px;  
@@ -18,5 +18,4 @@ body{
     display: block;
     margin: auto;
     max-width: 500px;
-
 }
