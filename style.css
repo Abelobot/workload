@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    color: rgb(243, 239, 225);
+    background-color: #8b0000;
+    margin: 15px 6px;
+    border-radius: 4px;
+}
+.bimg{
+    background-image: url(/image11.jpg);
+    background-blend-mode: overlay;
+    background-color: rgba(124, 21, 21, 0.7);
+    margin: 15px 10px;  
+}
+.brace{
+    text-align: left;
+    line-height: 40px;
+    font-size: large;
+    display: block;
+    margin: auto;
+    max-width: 500px;
+
+}
